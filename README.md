@@ -24,4 +24,4 @@ django-admin startproject mysite  созданиепроекта где mysite �
 
 cd mysite
 
-python manage.py genarator - где generator название приложения. кпримеру генератор или поиск и т.п.
+python manage.py startapp genarator - где generator название приложения. кпримеру генератор или поиск и т.п.
