@@ -21,3 +21,7 @@ pip install Django==3.2.16  установка Django
 
 
 django-admin startproject mysite  созданиепроекта где mysite это имя проекта
+
+cd mysite
+
+python manage.py genarator - где generator название приложения. кпримеру генератор или поиск и т.п.
